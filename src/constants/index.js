@@ -247,8 +247,8 @@ const projects = [
     ],
     image: portfolio,
     images: [portfolio], // Multiple screenshot support
-    source_code_link: "https://github.com/Jayant-1/3D-Portfolio",
-    live_demo_link: "https://jayant-1.vercel.app/",
+    source_code_link: "https://github.com/Tanzeel2754/devPortfolio",
+    live_demo_link: "https://dev-portfolio-eight-pied.vercel.app/",
     metrics: {
       stars: 234,
       forks: 67,
